@@ -7,7 +7,7 @@
 	       
 	namespace Development 
 	{
-	    public class Software
+	    public class SoftwareDeveloper
 	    {
 	      public string Name { get; set; } = "Jhonatan Decreci";
     
